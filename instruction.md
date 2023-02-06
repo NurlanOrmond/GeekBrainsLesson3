@@ -72,7 +72,10 @@ If we want to propose our modifications to the project which belongs to another 
 * cd “folder name”
 
  Before making some addings to the file it is good tone to make some changes in new branch.
+ 
 * git branch “name”
+* 
+* git checkout "name"
 
 * Let’s add new file 
 
