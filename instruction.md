@@ -48,3 +48,9 @@ push -u origin main - is to send local rep content to remote.
 * git push
 
   While we work in VS Code and make some changes, add and then commit them the remote file in GitHub is staying unchanged. If we want all changes in local rep to send to remote file we should use
+
+## How to send GutHub file to local rep.
+
+There are situations when we have made some changes in our file located in GitHub. And now we want to actualise local file. For that use next command in VS Code:
+
+*git pull
