@@ -54,3 +54,30 @@ push -u origin main - is to send local rep content to remote.
 There are situations when we have made some changes in our file located in GitHub. And now we want to actualise local file. For that use next command in VS Code:
 
 *git pull
+
+## Pull request
+
+If we want to propose our modifications to the project which belongs to another person or organization, the next procedure should be performed.
+
+* Go to interested project in Github.
+
+* Push the Fork button. 
+
+  It makes a copy of the project to our account. 
+
+* Code>copy
+
+* VS Code >Terminal> git clone https://…………..
+
+* cd “folder name”
+
+ Before making some addings to the file it is good tone to make some changes in new branch.
+* git branch “name”
+
+* Let’s add new file 
+
+* git push
+
+* Go to GitHub and there you can see new button Compare & pull request
+
+* Go ahead!!!
